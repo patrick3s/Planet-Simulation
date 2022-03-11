@@ -1,2 +1,2 @@
 
-<video src='https://github.com/patrick3s/Planet-Simulation/blob/main/assets/demo.mov' width=180/> 
+<video src='https://github.com/patrick3s/Planet-Simulation/blob/main/assets/demo.mov' height=180 width=180/> 
